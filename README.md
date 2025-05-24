@@ -27,10 +27,10 @@ I'm a passionate technologist blending creativity with engineering. With a backg
   A low-cost CNC machine controlled via FluidNC firmware and a wireless webcam interface.  
 
 - **🎙️ Custom Audio Equipment:**  
-  Designed and built a working microphone, guitar, and amp from scratch.  
+  Designed and built an electric guitar, and amp from scratch.  
 
 - **📦 Inventory Management System:**  
-  Coded a digital system for tracking and managing inventory items.  
+  Coded a digital system for tracking and managing inventory items using C.  
 
 - **📡 AM/FM Radio Transmission Systems:**  
   Collaborated on building an AM generator and FM satellite antenna using simulation and hardware.
