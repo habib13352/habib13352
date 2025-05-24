@@ -26,13 +26,13 @@ I'm a passionate technologist blending creativity with engineering. With a backg
 - **🎯 SketchNC – DIY CNC Plotter (ESP32 + Webcam):**  
   A low-cost CNC machine controlled via FluidNC firmware and a wireless webcam interface.  
 
-- **🎙️ Custom Audio Equipment:**  
+- **Custom Audio Equipment:**  
   Designed and built an electric guitar, and amp from scratch.  
 
-- **📦 Inventory Management System:**  
+- **Inventory Management System:**  
   Coded a digital system for tracking and managing inventory items using C.  
 
-- **📡 AM/FM Radio Transmission Systems:**  
+- **AM/FM Radio Transmission Systems:**  
   Collaborated on building an AM generator and FM satellite antenna using simulation and hardware.
 
 ---
@@ -41,10 +41,10 @@ I'm a passionate technologist blending creativity with engineering. With a backg
 
 I'm always improving my skills and diving into new domains. Right now, I’m focused on:
 
-- 🐍 Python (image processing, automation, data handling)
-- 🌐 Full-Stack Basics (web hosting, REST APIs, UI design)
-- 🧠 AI Tools & Automation (Prompt engineering, OpenAI API)
-- 📡 ESP32 projects (offline mode, SD card logging, G-code streaming)
+- Python (image processing, automation, data handling)
+- Full-Stack Basics (web hosting, REST APIs, UI design)
+- AI Tools & Automation (Prompt engineering, OpenAI API)
+- ESP32 projects (offline mode, SD card logging, G-code streaming)
 
 ### 💬 Languages I'm Exploring
 
