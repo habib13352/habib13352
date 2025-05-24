@@ -3,7 +3,8 @@
 🎓 Electronic Engineering Technologist | 🎸 Musician | 🛠 Embedded Systems  
 📍 Toronto, Canada  
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square) ![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/habib13352)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://hhabib6.myportfolio.com)
 ---
 
 ## 🌟 About Me
