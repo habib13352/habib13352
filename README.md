@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hamza Habib
 
-🎓 Electronic Engineering Technologist | 🎸 Musician | 🛠 Embedded Systems  
+🎓 Electronic Engineering Technologist | 🎸 Musician | 🛠 Embedded Systems 
+ 
 📍 Toronto, Canada  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/habib13352)
