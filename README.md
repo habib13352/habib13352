@@ -10,14 +10,14 @@
 
 ## 🌟 About Me
 
-Technologist and musician passionate about creative engineering. I build custom devices, teach guitar, and love tackling new challenges.
+Technologist and musician passionate about creative engineering. I build custom devices, teach guitar, and enjoy problem solving and learning.
 
 ---
 
 ## 🧰 Skills
 
 - Embedded Systems, Prototyping, PLC, Simulation, Soldering  
-- C, C++, Python, HTML, CSS  
+- C, C++, Python, HTML, CSS, Git  
 - Autodesk Fusion, Logic Pro X, OrCAD, MATLAB, VS Code  
 - Collaboration, Adaptability, Attention to Detail
 
@@ -29,6 +29,7 @@ Technologist and musician passionate about creative engineering. I build custom 
 - **Custom Audio Gear:** Built an electric guitar & amp  
 - **Inventory System:** Digital tracker in C  
 - **AM/FM Systems:** AM generator & FM antenna (hardware & simulation)
+- **DC Motor Test Board:** LabJack U3 safety logic, speed control, direction
 
 ---
 
