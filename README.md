@@ -65,5 +65,3 @@ Technologist and musician passionate about creative engineering. I build custom 
 [LinkedIn](https://www.linkedin.com/in/habib13352) | [Portfolio](https://hhabib6.myportfolio.com)
 
 ---
-
-Let me know if you want it even shorter or want to focus on specific sections!
