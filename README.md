@@ -20,7 +20,7 @@ Technologist and musician passionate about creative engineering. I build custom 
 `C` &nbsp; `C++` &nbsp; `Python` &nbsp; `HTML/CSS` &nbsp; `JavaScript (basic)` &nbsp; `G-code`
 
 ### 🔌 Microcontrollers & Platforms  
-`ESP32 (WROOM / S3)` &nbsp; `Arduino` &nbsp; `FRDM-K64` &nbsp; `LabJack (U9 / U3  (basic)`
+`ESP32 (WROOM / S3)` &nbsp; `Arduino` &nbsp; `FRDM-K64` &nbsp; `LabJack (U9 / U3  (basics))`
 
 ### 🛠 Tools & IDEs  
 `VS Code` &nbsp; `Arduino IDE` &nbsp; `PlatformIO` &nbsp; `Git & GitHub` &nbsp; `FluidNC` &nbsp; `OpenCV` &nbsp; `Pygame`
@@ -30,7 +30,7 @@ Technologist and musician passionate about creative engineering. I build custom 
 
 ---
 
-## 🛠 Projects
+## 📁 Projects
 
 - **SketchNC:** DIY CNC plotter with ESP32 + webcam  
 - **Custom Audio Gear:** Built an electric guitar & amp  
@@ -40,11 +40,14 @@ Technologist and musician passionate about creative engineering. I build custom 
 
 ---
 
-## 🚀 Learning
+## 🔧 WIP
 
-- Python (automation, image processing)
-- Full-stack basics & REST APIs  
-- AI Tools, ESP32 (offline, SD logging, G-code)
+- JavaScript & full-stack basics (REST, React)
+- Jekyll & GitHub Pages (custom sites)
+- Python automation (G-code, image processing)
+- ESP32 & CNC control (FluidNC, SD logging)
+- AI tools (Demucs, OpenAI API)
+- Git, testing, and embedded systems (C/C++)
 
 ---
 
