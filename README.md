@@ -14,12 +14,19 @@ Technologist and musician passionate about creative engineering. I build custom 
 
 ---
 
-## 🧰 Skills
+## 🧰 Technical Stack
 
-- Embedded Systems, Prototyping, PLC, Simulation, Soldering  
-- C, C++, Python, HTML, CSS, Git  
-- Autodesk Fusion, Logic Pro X, OrCAD, MATLAB, VS Code  
-- Collaboration, Adaptability, Attention to Detail
+### 💻 Languages & Markup  
+`C` &nbsp; `C++` &nbsp; `Python` &nbsp; `HTML/CSS` &nbsp; `JavaScript (basic)` &nbsp; `G-code`
+
+### 🔌 Microcontrollers & Platforms  
+`ESP32 (WROOM / S3)` &nbsp; `Arduino` &nbsp; `FRDM-K64` &nbsp; `LabJack (U9 / U3  (basic)`
+
+### 🛠 Tools & IDEs  
+`VS Code` &nbsp; `Arduino IDE` &nbsp; `PlatformIO` &nbsp; `Git & GitHub` &nbsp; `FluidNC` &nbsp; `OpenCV` &nbsp; `Pygame`
+
+### 📐 Simulation & Design  
+`EAGLE CAD` &nbsp; `OrCAD` &nbsp; `MATLAB` &nbsp; `Bambu Studio` &nbsp; `Intel Quartas` &nbsp; `Fusion 360`
 
 ---
 
