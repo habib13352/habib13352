@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/habib13352)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://hhabib6.myportfolio.com)
+
 ---
 
 ## 🌟 About Me
@@ -20,7 +21,7 @@ Technologist and musician passionate about creative engineering. I build custom 
 `C` &nbsp; `C++` &nbsp; `Python` &nbsp; `HTML/CSS` &nbsp; `JavaScript (basics)` &nbsp; `G-code` &nbsp; `XML`
 
 ### 🔌 Microcontrollers & Platforms  
-`ESP32 (WROOM / S3)` &nbsp; `Arduino` &nbsp; `FRDM-K64` &nbsp; `LabJack (U9 / U3  (basics))`
+`ESP32 (WROOM / S3)` &nbsp; `Arduino` &nbsp; `FRDM-K64` &nbsp; `LabJack (U9 / U3 (basics))`
 
 ### 🛠 Tools & IDEs  
 `VS Code` &nbsp; `Arduino IDE` &nbsp; `PlatformIO` &nbsp; `Git & GitHub` &nbsp; `FluidNC` &nbsp; `OpenCV` &nbsp; `Pygame`
@@ -30,33 +31,51 @@ Technologist and musician passionate about creative engineering. I build custom 
 
 ---
 
-## 📁 Projects
+## 📫 Connect
 
-- **SketchNC:** DIY CNC plotter with ESP32 + webcam  
-- **Custom Audio Gear:** Built an electric guitar & amp  
-- **Inventory System:** Digital tracker in C  
-- **AM/FM Systems:** AM generator & FM antenna (hardware & simulation)
-- **DC Motor Test Board:** LabJack U3 safety logic, speed control, direction
+[LinkedIn](https://www.linkedin.com/in/habib13352) | [Portfolio](https://hhabib6.myportfolio.com)
 
 ---
 
-## 🔧 WIP
+<details>
+  <summary>📁 <strong>Projects</strong></summary>
 
-- JavaScript & full-stack basics (REST, React)
-- Jekyll & GitHub Pages (custom sites)
-- Python automation (G-code, image processing)
-- ESP32 & CNC control (FluidNC, SD logging)
-- AI tools (Demucs, OpenAI API)
+- 🔧 **SketchNC:** DIY CNC plotter with ESP32 + webcam  
+- 🎸 **Custom Audio Gear:** Built an electric guitar & amp  
+- 📦 **Inventory System:** Digital tracker in C  
+- 📡 **AM/FM Systems:** AM generator & FM antenna (hardware & simulation)  
+- ⚙️ **DC Motor Test Board:** LabJack U3 safety logic, speed control, direction
+
+</details>
+
+---
+
+<details>
+  <summary>🔧 <strong>Currently Learning</strong></summary>
+
+- JavaScript & full-stack basics (REST, React)  
+- Jekyll & GitHub Pages (custom sites)  
+- Python automation (G-code, image processing)  
+- ESP32 & CNC control (FluidNC, SD logging)  
+- AI tools (Demucs, OpenAI API)  
 - Git, testing, and embedded systems (C/C++)
 
+</details>
+
 ---
 
-## 🎓 Education
+<details>
+  <summary>🎓 <strong>Education</strong></summary>
 
 - **Seneca Polytechnic:** Adv. Diploma, Electronic Engineering Technology (2024)  
 - **York University:** BFA Music (2022)
 
+</details>
+
 ---
+
+<details>
+  <summary>📊 <strong>GitHub Stats</strong></summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib13352&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -68,10 +87,5 @@ Technologist and musician passionate about creative engineering. I build custom 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=habib13352&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
----
+</details>
 
-## 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/habib13352) | [Portfolio](https://hhabib6.myportfolio.com)
-
----
