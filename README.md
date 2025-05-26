@@ -17,7 +17,7 @@ Technologist and musician passionate about creative engineering. I build custom 
 ## 🧰 Technical Stack
 
 ### 💻 Languages & Markup  
-`C` &nbsp; `C++` &nbsp; `Python` &nbsp; `HTML/CSS` &nbsp; `JavaScript (basic)` &nbsp; `G-code`
+`C` &nbsp; `C++` &nbsp; `Python` &nbsp; `HTML/CSS` &nbsp; `JavaScript (basics)` &nbsp; `G-code` &nbsp; `XML`
 
 ### 🔌 Microcontrollers & Platforms  
 `ESP32 (WROOM / S3)` &nbsp; `Arduino` &nbsp; `FRDM-K64` &nbsp; `LabJack (U9 / U3  (basics))`
