@@ -54,10 +54,10 @@ Technologist and musician passionate about creative engineering. I build custom 
   <summary>🧠 <strong>Skills & Strengths</strong></summary>
  
 **Electronics & Hardware:**  
-Circuit design, RF systems, analog/digital components, motor control, soldering, PCB layout (OrCAD, PADS), breadboarding, wiring
+Circuit design, RF systems, analog/digital components, motor control, soldering, PCB layout, breadboard, wiring
 
 **Embedded & Automation:**  
-Arduino, FPGA (VHDL, SystemVerilog), PLC programming, I2C, Kuka robotics, MATLAB, control systems
+ESP32, FRDM-K64, FPGA (VHDL, SystemVerilog), PLC programming, I2C, Kuka robotics, MATLAB, control systems
 
 **Tools & Software:**  
 Autodesk Fusion 360, Siemens TIA Portal, OrCAD, Visual Studio, Microsoft Office, Google Docs
