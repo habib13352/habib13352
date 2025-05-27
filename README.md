@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-Technologist and musician passionate about creative engineering. I build custom devices, teach guitar, and enjoy problem solving and learning.
+Technologist and musician passionate about creative engineering. I build custom devices, teach guitar, and enjoy problem solving and learning. Actively looking for full-time roles in electronics, systems, or product engineering.
 
 ---
 
