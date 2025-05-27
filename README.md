@@ -51,6 +51,25 @@ Technologist and musician passionate about creative engineering. I build custom 
 ---
 
 <details>
+  <summary>🧠 <strong>Skills & Strengths</strong></summary>
+ 
+**Electronics & Hardware:**  
+Circuit design, RF systems, analog/digital components, motor control, soldering, PCB layout (OrCAD, PADS), breadboarding, wiring
+
+**Embedded & Automation:**  
+Arduino, FPGA (VHDL, SystemVerilog), PLC programming, I2C, Kuka robotics, MATLAB, control systems
+
+**Tools & Software:**  
+Autodesk Fusion 360, Siemens TIA Portal, OrCAD, Visual Studio, Microsoft Office, Google Docs
+
+**Strengths:**  
+Problem solving, attention to detail, teamwork, creativity, communication
+
+</details>
+
+---
+
+<details>
   <summary>🔧 <strong>Currently Learning</strong></summary>
 
 - JavaScript & full-stack basics (REST, React)  
