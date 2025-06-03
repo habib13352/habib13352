@@ -100,10 +100,10 @@ Problem solving, attention to detail, teamwork, creativity, communication
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib13352&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habib13352&show_icons=true&theme=tokyonight&border_radius=15&icon_color=ff79c6&title_color=ffb86c&text_color=bd93f9&bg_color=1e1e2e" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=habib13352&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=habib13352&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=habib13352&show_icons=true&theme=tokyonight&border_radius=15&icon_color=ff79c6&title_color=ffb86c&text_color=bd93f9&bg_color=1e1e2e" alt="GitHub Stats" />
 </p>
 
 </details>
